@@ -1,3 +1,4 @@
+Freyja
 
 This project contains the source code of the freyja ui component library and it's also a showcase for the different components.
 
